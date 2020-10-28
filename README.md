@@ -4,4 +4,4 @@ A talk for an external customer audience at ChefConf 2018 can be found at https:
 
 The abstract for the talk can be found the cooperating Habicats file [here](cooperating-habicats.md)
 
-To understand the data stores for a Chef Server, start here with there [data stores](server-data/data-overview.md)
+To understand the data stores for a Chef Server, start here with the [data stores](server-data/data-overview.md)
